@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo systemctl stop nginx.service
+sudo systemctl restart nginx.service
