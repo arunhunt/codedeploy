@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /var/www/html/new/nginx /etc/nginx/sites-available/default
+cp -r /var/www/html/new/nginx.conf /etc/nginx/sites-available/default
