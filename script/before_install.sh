@@ -1,4 +1,2 @@
 #!/bin/bash
-pwd
-
-application_start.sh
+cp -r /var/www/html/new/nginx /etc/nginx/sites-available/default
